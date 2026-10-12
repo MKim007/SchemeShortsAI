@@ -1,0 +1,6 @@
+{
+  "name": "SchemeShortsAI",
+  "description": "Bite-sized, 60-second video overviews and interactive intelligence for welfare, financial, and government schemes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
